@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestRoom</string>
+    <string name="edit_text">Введите текст</string>
+    <string name="button_add">Добавить слово</string>
+    <string name="button_delete">Удалить слово</string>
+</resources>
